@@ -1,6 +1,4 @@
 # --- CONFIGURATION ---
-GENAI_KEY = "AIzaSyAQ8m2QeCYgubFD8PiZebeyMzsB2bZtrPs"
-
 TWITCH_TOKEN = ""
 CLIENT_ID = ""
 CLIENT_SECRET = ""
